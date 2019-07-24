@@ -11,14 +11,14 @@ Welcome to the SageMaker deployment project! In this project you will construct 
 Project Instructions
 The deployment project which you will be working on is intended to be done using Amazon's SageMaker platform. In particular, it is assumed that you have a working notebook instance in which you can clone the deployment repository.
 
-##General Outline
+## General Outline
 
 Recall the general outline for SageMaker projects using a notebook instance.
 
-Download or otherwise retrieve the data.
-Process / Prepare the data.
-Upload the processed data to S3.
-Train a chosen model.
-Test the trained model (typically using a batch transform job).
-Deploy the trained model.
-Use the deployed model.
+1. Download or otherwise retrieve the data.
+2. Process / Prepare the data.
+3. Upload the processed data to S3.
+4. Train a chosen model.
+5. Test the trained model (typically using a batch transform job).
+6. Deploy the trained model.
+7. Use the deployed model.
