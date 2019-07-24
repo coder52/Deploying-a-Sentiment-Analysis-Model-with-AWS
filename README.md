@@ -5,8 +5,8 @@ _Deep Learning Nanodegree Program | Deployment_
 
 ---
 
-Projeye Genel Bakış
-SageMaker dağıtım projesine hoş geldiniz! Bu projede, IMDB veri setini kullanarak bir film incelemesinin duyarlılığını belirlemek amacıyla tekrarlayan bir sinir ağı inşa edeceksiniz. Bu modeli Amazon'un SageMaker servisini kullanarak oluşturacaksınız. Ayrıca, modelinizi dağıtacak ve dağıtılan modelle etkileşime girecek basit bir web uygulaması oluşturacaksınız.
+Project Overview
+Welcome to the SageMaker deployment project! In this project you will construct a recurrent neural network for the purpose of determining the sentiment of a movie review using the IMDB data set. You will create this model using Amazon's SageMaker service. In addition, you will deploy your model and construct a simple web app which will interact with the deployed model.
 
-Proje Talimatları
-Üzerinde çalışacağınız dağıtım projesinin Amazon'un SageMaker platformu kullanılarak yapılması planlandı. Özellikle, dağıtım havuzunu klonlayabileceğiniz çalışan bir dizüstü bilgisayar örneğiniz olduğu varsayılmaktadır.
+Project Instructions
+The deployment project which you will be working on is intended to be done using Amazon's SageMaker platform. In particular, it is assumed that you have a working notebook instance in which you can clone the deployment repository.
